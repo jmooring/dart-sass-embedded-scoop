@@ -10,13 +10,7 @@ Package: <https://scoop.sh/>
 
 You may run Scoop commands from Command Prompt, PowerShell, or Windows PowerShell.
 
-You must add the Scoop "extras" bucket:
-
-```text
-scoop bucket add extras
-```
-
-Then use the commands below to install, update, or uninstall:
+Use the commands below to install, update, or uninstall:
 
 ```text
 scoop install dart-sass-embedded
